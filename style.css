@@ -40,4 +40,7 @@
 @media(max-width:767px){.note-back{width:216px;right:17px}}
 @media(min-width:768px){.note-front{width:230px;left:4px}.note-title{font-size:55px;letter-spacing:-3.1px}}
 
+/* Fill more of the translucent portrait card on desktop. */
+@media(min-width:768px){.profile-photo{top:51px;right:12px;width:225px;height:290px}}
+
 .record-sub{flex-wrap:wrap}
