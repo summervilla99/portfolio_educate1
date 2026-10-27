@@ -1,3 +1,5 @@
+# portfolio_educate1
+
 # FIELD / NOTES — 이지환 · AI Educator
 
 기업 AI 교육과 프로젝트 코칭 이력을 소개하는 반응형 포트폴리오 사이트입니다.
